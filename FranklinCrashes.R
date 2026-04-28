@@ -1,7 +1,3 @@
-#For home PC:
-#setwd("C:/Users/SelfaSteen/OneDrive - University of Illinois Chicago/Current Classes/UPP565/Assignment 2/Analysis")
-#For work PC:
-setwd("C:/Users/shaus/OneDrive - University of Illinois Chicago/Current Classes/UPP565/Assignment 2/Analysis")
 library(dplyr)
 library(stringr)
 library(readr)
