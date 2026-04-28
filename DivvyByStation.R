@@ -1,6 +1,3 @@
-
-#setwd("filepath")
-
 library(dplyr)
 library(stringr)
 library(lubridate)
